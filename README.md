@@ -1,6 +1,6 @@
 # progetto-setup-raspberry-pi
 ## Blocco della pubblicità con raspberry
-***
+
 Setup di un blocco delle pubblicità a livello di rete, creazione della documentazione: guida alla creazione e manutenzione nel tempo
 I grafici WBS, PDM e Gantt sono situati all'interno della directory **divisione-lavoro/**
 
